@@ -1,7 +1,7 @@
 # NoizBox
 Designed & Developed by Ben Westergreen
 
-![GIF_Intro](https://github.com/benjawest/NoizBox/assets/65360736/03c82603-169f-4c70-8701-f50025aae8f1)
+![GIF_Intro](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/MainImage.gif)
 
 > NoizBox is an experimental virtual reality (VR) spatial audio project developed with Unity Engine. It emerged from explorations to create a synesthetic VR experience that celebrates body autonomy and empowers users to connect with rhythm and sound on a personal level.
 
@@ -12,13 +12,13 @@ As a solo project, NoizBox had inherent limitations. Conducting a comparative an
 
 # Concept Development - Visual Aesthetics and Mood
 
-![GIF_NarrativeDev_1](https://github.com/benjawest/NoizBox/assets/65360736/a0356e8a-dd24-4317-bb5f-7dec6cc5aa4c)
+![GIF_NarrativeDev_1](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Concept%20Development%20-%20Visual%20Aesthetics%20and%20Mood.gif)
 
 During concept development, I embarked on a parallel exploration of narrative and visual aesthetics. Using Midjourney, I rapidly iterated on styles and moods, seeking to create a sense of scale that VR affords, allowing users to immerse themselves in captivating scenes that resonated with their emotions.
 
 # Prototype 1: Interactive Sound Objects
 
-![GIF_PrototypeOne](https://github.com/benjawest/NoizBox/assets/65360736/cd794141-04d8-44b3-b270-94971377e854)
+![GIF_PrototypeOne](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Prototype%201%20Interactive%20Sound%20Objects.gif)
 
 NoizBox's early stages saw the birth of Prototype 1, where the focus was on interactive sound objects. The project introduced audio reactive cubes, representing sound objects, which users could play, move, and manipulate within the virtual space. These cubes dynamically changed color and size based on audio intensity, creating visually expressive particle effects that resonated with the audio. The success of Prototype 1 validated the potential of 3D spatial audio for sound design and provided a foundation for further exploration.
 
@@ -27,26 +27,26 @@ Playtesting Prototype 1 provided valuable insights into user behavior and prefer
 
 # Prototype 2: Collecting Audio Objects with Orbital Motion
 
-![GIF_Orbital](https://github.com/benjawest/NoizBox/assets/65360736/4026c81b-74d0-4fdd-956b-69a9480c4b3a)
+![GIF_Orbital](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Prototype%202%20Collecting%20Audio%20Objects%20with%20Orbital%20Motion.gif)
 
 Prototype 2 centered around the innovative concept of collecting audio objects and their orbital motion around the user's hand. By introducing a dynamic element of randomness to the orbits, I aimed to create an engaging and immersive experience. While the concept was experimental and engaging, I realized the importance of grounding ideas in the overall user flow. Balancing creativity with user-centric design became crucial to ensure a seamless and intuitive experience.
 
 # Style Frames and Generative Cube Rooms
 
-![GIF_StyleFrame](https://github.com/benjawest/NoizBox/assets/65360736/accd2e54-cab5-4eed-b6c0-c36d26e62856)
+![GIF_StyleFrame](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Style%20Frames%20and%20Generative%20Cube%20Rooms.gif)
 
 Style frames were instrumental in honing the aesthetics of NoizBox. Through quick gesture digital paintings, I experimented with various visual styles, eventually leading to the creation of the generative cube rooms. These captivating and ever-changing spaces allow users to lose themselves in a symphony of visuals that respond to their movements and actions.
 
 
 ## Generative Tools: A World of Dynamic Environments
 
-![GIF_GenerativeCreature](https://github.com/benjawest/NoizBox/assets/65360736/17631799-0bf2-477c-898c-ce0ae004fcaa)
+![GIF_GenerativeCreature](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Generative%20Tools%20A%20World%20of%20Dynamic%20Environments.gif)
 
 The development of generative tools opened a world of possibilities for NoizBox's environments. By adapting the "generative creature" code from Eliza Struthers-Jobin, I explored ways to sync her creature to a BPM and allow user-controlled acceleration based on the effect intensity of specific sound cubes.
 
 # Prototype 3: Gyroscope Filter and Audio Control
 
-![GIF_Gyroscope](https://github.com/benjawest/NoizBox/assets/65360736/b5637a7b-46b3-4b5f-aac5-f702e2485c90)
+![GIF_Gyroscope](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Prototype%203%20Gyroscope%20Filter%20and%20Audio%20Control.gif)
 
 Inspired by the Orba, Prototype 3 incorporated the gyroscope filter into NoizBox's sound objects, providing users with an exciting and satisfying way to control volume, distortion, and low-pass filtering. The combination of multiple control types within a single object aimed to enhance the user experience and creative expression.
 
@@ -55,7 +55,7 @@ While the gyroscope filter added a layer of interactivity, user testing exposed 
 
 # Prototype 4: Layered Audio Experience
 
-![GIF_NarrativeProto](https://github.com/benjawest/NoizBox/assets/65360736/ab3531b8-bcd5-46a8-87b8-1ce71b7e15a9)
+![GIF_NarrativeProto](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Prototype%204%20Layered%20Audio%20Experience.gif)
 
 Prototype 4 explored a linear approach to guide users through a curated series of sounds that naturally layered and built upon each other. Users unlocked the next sound object by interacting with the current one for a set time. The challenge lay in quickly prototyping different sound samples to discover how they could combine and layer, guiding users through the journey.
 
@@ -64,26 +64,26 @@ During this exploration, a critical realization emerged - the absence of a tool 
 
 # Generative Artwork and User-Centric Design
 
-<img width="1160" alt="GeneratedCoverArt" src="https://github.com/benjawest/NoizBox/assets/65360736/85f1664e-abb9-46c0-952c-c56ae9759259">
+<img width="1160" alt="GeneratedCoverArt" src="https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Generative%20Artwork%20and%20User-Centric%20Design.png">
 
 To enrich the display of audio samples I took inspiration from sound applications like FractalBits and the humanistic approach to DataViz in "DearData" by Giorgia Lupi and Stefanie Posavec. I used an AI Image Generator Midjourney to create a catalog of imagery for a curated selection of audio samples. My prompts were based on descriptions of what each sound sounded like, and AI allowed me to generate over +200 distinct images. The generated images were sorted based on affinity attributes and reassigned to instruments.
 
 # Frontend Framework and Visual Design
 
-![GIF_UIDesign](https://github.com/benjawest/NoizBox/assets/65360736/43b90d47-1627-4707-b3ea-91bb1e10766f)
+![GIF_UIDesign](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Frontend%20Framework%20and%20Visual%20Design.gif)
 
 
 The project's frontend framework, Nova UI, accelerated the prototyping speed by allowing the creation of basic shapes and assets directly in the editor. Early testing and visual design for interactions were facilitated using a 2D wireframe and prototype in Figma.
 
 # Lighting and Optimization
 
-![GIF_Lighting](https://github.com/benjawest/NoizBox/assets/65360736/6fd8581c-09f3-47de-8fcf-edf6060f385d)
+![GIF_Lighting](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Lighting%20and%20Optimization.gif)
 
 I focused on making the experience smoother and more visually appealing with lighting and optimization of the scene. This involved baking lights and making objects static to enable static and dynamic batching, leading to significant performance improvements. The introduction of high-quality soft lighting through the bakery added an artistic touch and enhanced the visual aesthetics. Additionally, dimmer lit scenes were carefully designed to create a comfortable environment for audio creation and extended play sessions.
 
 # Audio Objects - Modular Design
 
-![GIF_Modular_1](https://github.com/benjawest/NoizBox/assets/65360736/22ab86e2-6af0-4aca-8820-15a1f2e81d69)
+![GIF_Modular_1](https://github.com/VFS-VRAR/VAR05-NoizBox-FinalProject/blob/main/Images%20And%20GIFs/Audio%20Objects%20-%20Modular%20Design.gif)
 
 NoizBox's audio objects embrace a modular design, offering a flexible and adaptable foundation for the project. Effect panels for loops and one-shots add depth to user interaction. Loops feature effect levers for control over filters and distortion, while one-shots include drum pads for triggering sounds. The modular audio objects in NoizBox become the canvas for users to paint their sonic stories.
 
